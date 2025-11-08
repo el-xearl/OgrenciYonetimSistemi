@@ -1,5 +1,7 @@
 # OgrenciYonetimSistemi
 C# Windows Forms Öğrenci Yönetim Sistemi (OOP)
+Anladım Serhat, GitHub’da klasör yapısı düzgün gözükmesi için **kod bloklarını ve hiyerarşiyi düzgün şekilde hizalayacağım**. İşte düzeltilmiş README:
+
 ---
 
 ```markdown
@@ -23,7 +25,6 @@ Bu proje, temel bir **Öğrenci Yönetim Sistemi** uygulamasıdır.
 ```
 
 OgrenciYonetimSistemi/
-│
 ├─ bin/                   # Derlenmiş dosyalar
 ├─ obj/                   # Proje derleme objeleri
 ├─ Properties/            # Proje ayarları
